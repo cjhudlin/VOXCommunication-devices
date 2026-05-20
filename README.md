@@ -49,15 +49,20 @@ Home V1
 
 ---
 
-## 🎧 Key Features
+## 🎧 Key Features of Easy Tour
 
 ### 🔊 **Bluetooth Audio**
 - High-quality **44.1 kHz / 16-bit stereo playback**
+- **VOX DUALAMP** - Seperate left and right audio amplifiers for clean high quality audio seperation for a dynamic audio feel
+- **VOXDSP** - Superior audio processing bringing your music to life
 - Compatible with most Bluetooth-enabled devices
 
 ### 🔊 **Hands Free**
 - High quality phone calls
 - Answer, reject, and control phone calls
+
+### 🔊 **Siren detect**
+- Detect emergency vehicles before you notice them
 
 ### 🗣 **VOX (Voice over X-MESH)**
 - Proprietary **multi-node mesh communication**
