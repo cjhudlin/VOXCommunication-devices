@@ -125,7 +125,7 @@ That means:
 
 ---
 
-## 🧩 Development Status *(as of 7 MAY 26)*
+## 🧩 Development Status *(as of 9 JUN 26)*
 - Prototype device has already been made and is currently undergoing testing. After testing, a new pcb was required to meet the requirements
 - ✅ Firmware V1.0 functional (will be released on the sale of the device)
 - ✅ Firmware flash tool available for Easy Tour
