@@ -125,11 +125,11 @@ That means:
 
 ---
 
-## 🧩 Development Status *(as of 9 JUN 26)*
-- Prototype device has already been made and is currently undergoing testing. After testing, a new pcb was required to meet the requirements
+## 🧩 Development Status *(as of 31 JUL 26)*
+- Prototype device has already been made and is currently undergoing testing. After testing and feedback, a new design was required to meet new requirements
 - ✅ Firmware V1.0 functional (will be released on the sale of the device)
 - ✅ Firmware flash tool available for Easy Tour
-- X PCB ready and being tested - NEW PCB DESIGN IS BEING MADE AND TESTED - smaller, more efficient 
+- ✅ PCB ready and being tested - NEW HARDWARE DESIGN IS BEING MADE AND TESTED
 - ✅ prototype enclosure designed
 - ✅ Multi-device testing and range benchmarking underway  
 
