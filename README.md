@@ -4,9 +4,6 @@
 **Status:** Under development - Prototype ready! (see at bottom for more updates)
 Feel free to open a discussion under "Discussions" tab for any Q&A
 
-# LOOKING FOR PROTOTYPE USERS!
-**Im now looking for people to prototype (test) the Easy Tour A V1 device! Please go to the prototyping_p1.md file for more information**
-
 ---
 
 ### Quick links
@@ -54,18 +51,18 @@ Home V1
 ### 🔊 **Bluetooth Audio**
 - High-quality **44.1 kHz / 16-bit stereo playback**
 - **VOX DUALAMP** - Seperate left and right audio amplifiers for clean high quality audio seperation for a dynamic audio feel
-- **VOXDSP** - Superior audio processing bringing your music to life
+- **VOXDSP** - Custom built DSP for superior audio processing bringing your music to life
 - Compatible with most Bluetooth-enabled devices
 
 ### 🔊 **Hands Free**
 - High quality phone calls
 - Answer, reject, and control phone calls
 
-### 🔊 **Siren detect**
+### 🔊 **Siren detect** (under development)
 - Detect emergency vehicles before you notice them
 
 ### 🗣 **VOX (Voice over X-MESH)**
-- Proprietary **multi-node mesh communication**
+- **multi-node mesh communication**
 - **Private MESH groups** with user-defined credentials  
 - **Open MESH mode** for public communication 
 - **High-clarity 14.7 kHz / 16-bit stereo voice transmission**  
@@ -125,12 +122,12 @@ That means:
 
 ---
 
-## 🧩 Development Status *(as of 31 JUL 26)*
+## 🧩 Development Status *(as of 22 AUG 26)*
 - Prototype device has already been made and is currently undergoing testing. After testing and feedback, a new design was required to meet new requirements
 - ✅ Firmware V1.0 functional (will be released on the sale of the device)
 - ✅ Firmware flash tool available for Easy Tour
-- ✅ PCB ready and being tested - NEW HARDWARE DESIGN IS BEING MADE AND TESTED
-- ✅ prototype enclosure designed
+- ✅ PCB ready
+- ✅ Prototype enclosure designed
 - ✅ Multi-device testing and range benchmarking underway  
 
 ---
@@ -141,7 +138,7 @@ VOXCOMM is passion-driven — contributions are always welcome!
 ---
 
 **Areas where help is most valuable:**
-- 🧱 **Enclosure Design** — waterproof, ergonomic enclosure concepts  
+- 🧱 **Enclosure Designs** — waterproof, ergonomic enclosure concepts  
 - 💸 **Funding Support** — donations help accelerate hardware prototyping  
 
 Every bit of support — technical, creative, or financial — helps move VOXCOMM closer to reality.
