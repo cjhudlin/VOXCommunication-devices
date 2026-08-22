@@ -25,7 +25,7 @@ The devices are capable of many uses cases, though the main use cases are:
 - Home mesh intercom
 - Tour guide mesh comms - horseback riding or city tours etc
 
-At its core is **VOX MESH**, a proprietary mesh networking system that delivers:
+At its core is **VOX MESH**, a mesh networking system that delivers:
 - ⚡ **low-latency audio**
 - 🌐 **Long range communication**
 - 🔒 **Private group or open mesh modes**
