@@ -2,7 +2,7 @@
 ### Mesh based devices for communication and beyond
 **A new generation of scalable and affordable mesh communication.**\
 **Status:** Under development - Prototype ready! (see at bottom for more updates)
-Feel free to open a discussion under "Discussions" tab for any Q&A
+Feel free to open a discussion under "Issues" tab for any Q&A
 
 ---
 
