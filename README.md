@@ -119,7 +119,7 @@ That means:
 ---
 
 ## 🧩 Development Status *(as of 21 OCT 26)*
-- Prototype device has already been made and is currently undergoing testing. After testing and feedback, a new design was required to meet new requirements
+Prototype device has already been made and is currently undergoing testing. After testing and feedback, a new design was required to meet new requirements
 - ✅ Firmware V1.0 functional (updates will be released on the sale of the device)
 - ✅ Firmware flash tool available for Easy Tour
 - ✅ PCB ready (redesigned)
