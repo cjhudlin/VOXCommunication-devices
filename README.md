@@ -30,9 +30,12 @@ At its core is **VOX MESH**, a mesh networking system that delivers:
 - 🌐 **Long range communication**
 - 🔒 **Private group or open mesh modes**
 - 🗣 **DUO Mode** for 2 person comms
+- 🌐 **Open mesh Mode** to communicate with anyone nearby using Vox Mesh technology
 - 🗣 **Dual Audio** Listen to your favourite music or navigation via bluetooth whilst chatting!
-- 🧠 **Scalable connections**
-- **Device compatibility** - Virtually any device could communicate using VOX mesh software
+- 🌐 **Scalable connections**
+- 🔄 Automatic **reconnect** and **self-healing** connections  
+- 🎙 Seamless **multi-device audio routing**
+- 🌐 **Device compatibility** - Virtually any device could communicate using VOX mesh software
 
 ---
 
@@ -112,14 +115,6 @@ That means:
 - 📡 **Long range**\*
 - 🧩 **Potential for no fixed connection limit** — scale to your needs
 - much more device compatiblity - almost any device can implement VOX Mesh software\*
-
----
-
-## 🧠 VOX MESH Capabilities
-- 🔐 Create **private groups** with your own name and password  
-- 🌍 **Open mesh mode** to communicate with anyone nearby using VOX Mesh technology
-- 🔄 Automatic **reconnect** and **self-healing** connections  
-- 🎙 Seamless **multi-device audio routing**
 
 ---
 
