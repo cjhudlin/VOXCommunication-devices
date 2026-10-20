@@ -57,11 +57,12 @@ Home V1
 ### 🔊 **Hands Free**
 - High quality phone calls
 - Answer, reject, and control phone calls
+- **No road noise** - noise cancelling mic system so the others can hear you
 
 ### 🔊 **Siren detect** (under development)
 - Detect emergency vehicles before you notice them
 
-### 🗣 **VOX (Voice over X-MESH)**
+### 🗣 **VOX mode (Voice over X-MESH)**
 - **multi-node mesh communication**
 - **Private MESH groups** with user-defined credentials  
 - **Open MESH mode** for public communication 
@@ -116,19 +117,19 @@ That means:
 
 ## 🧠 VOX MESH Capabilities
 - 🔐 Create **private groups** with your own name and password  
-- 🌍 Start an **open mesh** for anyone nearby to join  
+- 🌍 **Open mesh mode** to communicate with anyone nearby using VOX Mesh technology
 - 🔄 Automatic **reconnect** and **self-healing** connections  
 - 🎙 Seamless **multi-device audio routing**
 
 ---
 
-## 🧩 Development Status *(as of 22 AUG 26)*
+## 🧩 Development Status *(as of 21 OCT 26)*
 - Prototype device has already been made and is currently undergoing testing. After testing and feedback, a new design was required to meet new requirements
-- ✅ Firmware V1.0 functional (will be released on the sale of the device)
+- ✅ Firmware V1.0 functional (updates will be released on the sale of the device)
 - ✅ Firmware flash tool available for Easy Tour
-- ✅ PCB ready
-- ✅ Prototype enclosure designed
-- ✅ Multi-device testing and range benchmarking underway  
+- ✅ PCB ready (redesigned)
+- ✅ Prototype enclosure designed (redesigned)
+- ✅ Multi-device testing and range benchmarking underway
 
 ---
 
@@ -137,8 +138,7 @@ VOXCOMM is passion-driven — contributions are always welcome!
 
 ---
 
-**Areas where help is most valuable:**
-- 🧱 **Enclosure Designs** — waterproof, ergonomic enclosure concepts  
+**Areas where help is most valuable:** 
 - 💸 **Funding Support** — donations help accelerate hardware prototyping  
 
 Every bit of support — technical, creative, or financial — helps move VOXCOMM closer to reality.
